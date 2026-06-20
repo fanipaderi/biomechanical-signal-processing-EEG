@@ -1,4 +1,4 @@
-# Automated EEG Signal Processing & Spectral Analysis Pipeline
+# Automated EEG Signal Processing & Spectral Analysis 
 
 ## Overview
 This repository contains a MATLAB-based clinical data pipeline designed to preprocess, denoise, and analyze raw Electroencephalogram (EEG) signals. The script is optimized to handle high-frequency neurological time-series data, extract critical frequency-domain features (Alpha, Beta, and Low Gamma band power), and structure the output for downstream clinical evaluation and statistical modeling.
